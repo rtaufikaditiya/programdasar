@@ -12,5 +12,7 @@ int main()
     cout << endl;
     carrots = carrots - 1; // modify the variable
     cout << "Crunch, crunch. Now I have " << carrots << " carrots." << endl;
+
+    cout << "Rahmat  Taufik Aditiya 255440006";
     return 0;
 }
