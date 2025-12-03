@@ -12,6 +12,8 @@ int main()
     int pounds = stonetolb(stone);
     cout << stone << " stone = ";
     cout << pounds << " pounds." << endl;
+
+    cout << "Rahmat Taufik Aditiya 255440006";
     return 0;
 }
 int stonetolb(int sts)
